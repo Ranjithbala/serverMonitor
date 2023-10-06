@@ -1,0 +1,18 @@
+Sep 16, 2023 10:02:39 PM com.server.monitor.ServerMonitorApplication main
+INFO: |----Server Monitor Started Successfully
+Sep 16, 2023 10:02:39 PM com.server.monitor.ServerMonitorApplication checkAndEmailServerIP
+INFO: Simple
+Sep 16, 2023 10:02:39 PM com.server.monitor.ServerMonitorApplication executeCommand
+INFO: |---Executings curl ifconfig.me
+Sep 16, 2023 10:02:39 PM com.server.monitor.ServerMonitorApplication executeCommand
+INFO: 	|----Result: 115.97.245.138
+Sep 16, 2023 10:02:39 PM com.server.monitor.ServerMonitorApplication checkAndEmailServerIP
+INFO: Current IP : 115.97.245.138
+Sep 16, 2023 10:02:39 PM com.server.monitor.ServerMonitorApplication readContent
+INFO: Reading File ->serverconfig.txt
+Sep 16, 2023 10:02:39 PM com.server.monitor.ServerMonitorApplication readContent
+INFO: 115.97.245.138
+Sep 16, 2023 10:02:39 PM com.server.monitor.ServerMonitorApplication checkAndEmailServerIP
+INFO: Server IP Not Changed
+Sep 16, 2023 10:02:39 PM com.server.monitor.ServerMonitorApplication main
+INFO: 	|----Server Monitor ENDED Successfully
